@@ -51,6 +51,6 @@
   Contagem de visitantes<br>
   <img src="https://profile-counter.glitch.me/diogolima11/count.svg" />
 </p>
-
-
 ![snake gif](https://github.com/DiogoLima11/DiogoLima11/blob/output/github-contribution-grid-snake.svg)
+
+
