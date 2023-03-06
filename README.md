@@ -31,7 +31,7 @@
   <img height = 36.7 align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a><br>
 
-<p></p>
+
 
 <a href="https://github.com/diogolima11">
   <img height = 180 align="center" src="https://github-readme-stats.vercel.app/api?username=diogolima11&show_icons=true&include_all_commits=true&theme=radical" alt="Diogo' github stats" />
