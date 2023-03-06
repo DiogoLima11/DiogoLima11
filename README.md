@@ -34,11 +34,11 @@
 <p></p>
 
 <a href="https://github.com/diogolima11">
-  <img height = 170 align="center" src="https://github-readme-stats.vercel.app/api?username=diogolima11&show_icons=true&include_all_commits=true&theme=radical" alt="Diogo' github stats" />
+  <img height = 160 align="center" src="https://github-readme-stats.vercel.app/api?username=diogolima11&show_icons=true&include_all_commits=true&theme=radical" alt="Diogo' github stats" />
 </a>
 
 <a href="https://github.com/DiogoLima11">
-  <img height = 170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolima11&layout=compact&theme=radical" />
+  <img height = 160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolima11&layout=compact&theme=radical" />
 </a>
 
 <p></p>
