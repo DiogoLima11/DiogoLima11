@@ -52,4 +52,4 @@
   <img src="https://profile-counter.glitch.me/diogolima11/count.svg" />
 </p>
 
-![snake animation](https://github.com/diogolima11/diogolima11/blob/output/github-contribution-grid-snake.svg)
+
