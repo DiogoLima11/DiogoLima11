@@ -1,6 +1,6 @@
 ### Opa! Eu sou Diogo Lima.👋
 <p> 🇧🇷 Atualmente estou no 3° periodo do curso Ciência da Computação na PUC-MINAS. </p>
-<p> 🇪🇸 ¡Ups! Soy Diogo Lima, actualmente estoy en el 3er período de la carrera de Informática en la PUC-MINAS.</p>
+<p> 🇪🇸 ¡Hola! Soy Diogo Lima, actualmente estoy en el 3° período de la carrera de Informática en la PUC-MINAS.</p>
 <p> 🇺🇸 Oops! I'm Diogo Lima , I'm currently in the 3rd period of the Computer Science course at PUC-MINAS.</p>
 
 <a href="https://github.com/DiogoLima11">
