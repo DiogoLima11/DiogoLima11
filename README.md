@@ -1,5 +1,5 @@
 ### Opa! Eu sou Diogo Lima.👋
-<p> 🇧🇷 Atualmente estou no 4° periodo do curso Ciência da Computação na PUC-MINAS. </p>
+<p> 🇧🇷 Atualmente estou no 5° periodo do curso Ciência da Computação na PUC-MINAS. </p>
 <p> 🇪🇸 ¡Hola! Soy Diogo Lima, actualmente estoy en el 4° período de la carrera de Informática en la PUC-MINAS.</p>
 <p> 🇺🇸 Oops! I'm Diogo Lima , I'm currently in the 4rd period of the Computer Science course at PUC-MINAS.</p>
 
