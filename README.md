@@ -25,7 +25,7 @@
   <img height = 36.7 align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/diogo-lima-891aa6264">
+<a href="https://www.linkedin.com/in/diogo-lima-2b73b1355">
   <img height = 36.7 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
