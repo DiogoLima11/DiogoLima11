@@ -31,24 +31,11 @@
 </p>
 
 ### 🚀 Em destaque
-* **TCC:** Automação de Redes MikroTik via Chatbot com Inteligência Artificial.
-* Foco em Redes, Segurança e Desenvolvimento Web.
+* Graduando em Ciência da Computação | Desenvolvedor de Software & Automação de Redes | MikroTik.
 
 ---
 
 ### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogolima11&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogolima11&layout=compact&theme=radical" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=diogolima11&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 <p align="center">
