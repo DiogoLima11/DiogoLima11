@@ -30,8 +30,7 @@
 </div>
 
 ### 🚀 Em destaque
-* **TCC:** Automação de Redes MikroTik via Chatbot com Inteligência Artificial.
-* Foco em Redes, Segurança e Desenvolvimento Web.
+* Graduando em Ciência da Computação | Desenvolvedor de Software & Automação de Redes | MikroTik.
 
 ---
 
