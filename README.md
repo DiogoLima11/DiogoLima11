@@ -1,7 +1,7 @@
 ### Olá! Eu sou Diogo Lima 👋
 
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZEMmY3Q9Zw/L1R1tvIMcyHJCn8f2o/giphy.gif" alt="Coding Gif" />
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZEMmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
 </div>
 
 <p align="center">
